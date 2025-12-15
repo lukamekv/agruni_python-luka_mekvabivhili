@@ -1,0 +1,13 @@
+{
+    "max_single_purchase_users": [
+        "sam_jones"
+    ],
+    "max_total_value_users": [
+        "peter_black"
+    ],
+    "average_purchase_value": 10.916666666666666,
+    "average_purchase_amount": 3.0,
+    "most_sold_products": [
+        "orange"
+    ]
+}
